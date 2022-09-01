@@ -1,4 +1,4 @@
-# Watcherguru-votes
+# Watcherguru-upvoting-bot
 
 Watcher.guru votes
 
